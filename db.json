@@ -7,7 +7,8 @@
       "lon":"-79.470312",
       "dir":"Av. Carlos J. Arosemena 38, Quevedo",
       "web":"https://www.uteq.edu.ec/3",
-      "logo":"https://www.uteq.edu.ec/images/about/logo_fci.jpg"
+      "logo":"https://www.uteq.edu.ec/images/about/logo_fci.jpg",
+      "dec":"Ing. Washington Alberto Chiriboga Casanova, M.Sc."
     },  
     {
       "fac":"Facultad de Ciencias Empresariales",
@@ -15,7 +16,8 @@
       "lon":" -79.470119",
       "dir":"Av. Carlos J. Arosemena 38, Quevedo",
       "web":"https://www.uteq.edu.ec/6",
-      "logo":"https://www.uteq.edu.ec/images/about/logo_fce.jpg"
+      "logo":"https://www.uteq.edu.ec/images/about/logo_fce.jpg",
+      "dec":"Ing. Mariela Susana Andrade Arias, PhD."
     },  
     {
       "fac":"Facultad de Ciencias de la Salud",
@@ -23,7 +25,8 @@
       "lon":"-79.468845",
       "dir":"Av. Carlos J. Arosemena 38, Quevedo",
       "web":"https://www.uteq.edu.ec/18",
-      "logo":"https://www.uteq.edu.ec/images/about/logo_enf1.jpg"
+      "logo":"https://www.uteq.edu.ec/images/about/logo_enf1.jpg",
+      "dec":"Lcda. Inés de la Luz Bajaña Mendieta, M.Sc."
     },
      {
       "fac":"Mi Arianny",
@@ -31,8 +34,26 @@
       "lon":"-79.441897",
       "dir":"En mi corazón bb",
       "web":"Clasificado",
-      "logo":"Clasificado"   
-     
-     }
+      "logo":"Clasificado",
+      "dec":"Jeyson Jaramillo R., Cuerpoteniente"     
+     },
+     {
+      "fac":"Facultad de Ciencias Agropecuarias",
+      "lat":"-1.080596",
+      "lon":"-79.502107",
+      "dir":"Mocache, Km 30",
+      "web":"https://www.uteq.edu.ec/18",
+      "logo":"https://www.uteq.edu.ec/images/about/logo_enf1.jpg",
+      "dec":"Ing. Leonardo Gonzalo Matute, M.Sc."
+     },
+     {
+     "fac":"Facultad de Ciencias Sociales, económicas y financieras",
+      "lat":"-1.080596",
+      "lon":"-79.502107",
+      "dir":"Mocache, Km 30",
+      "web":"https://www.uteq.edu.ec/18",
+      "logo":"https://www.uteq.edu.ec/images/about/logo_enf1.jpg",
+      "dec":"Econ. Nivaldo Apolonides Vera Valdiviezo, M.Sc."
+     }          
   ]
 }
