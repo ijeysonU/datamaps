@@ -6,21 +6,21 @@
       "latlog":"-1.012647, -79.470312",
       "dir":"Av. Carlos J. Arosemena 38, Quevedo",
       "web":"https://www.uteq.edu.ec/3",
-      "logo":""
+      "logo":"https://www.uteq.edu.ec/images/about/logo_fci.jpg"
     },  
     {
       "fac":"Facultad de Ciencias Empresariales",
       "latlog":"-1.012173, -79.470119",
       "dir":"Av. Carlos J. Arosemena 38, Quevedo",
       "web":"https://www.uteq.edu.ec/6",
-      "logo":""
+      "logo":"https://www.uteq.edu.ec/images/about/logo_fce.jpg"
     },  
     {
       "fac":"Facultad de Ciencias de la Salud",
       "latlog":"-1.012250, -79.468845",
       "dir":"Av. Carlos J. Arosemena 38, Quevedo",
       "web":"https://www.uteq.edu.ec/18",
-      "logo":""
+      "logo":"https://www.uteq.edu.ec/images/about/logo_enf1.jpg"
     }    
   ]
 }
